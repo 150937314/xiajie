@@ -1,6 +1,6 @@
 # rf_app
 
-first commit  ----------------------
+first commit  ---------------------- study
 
 ## Project setup
 ```
